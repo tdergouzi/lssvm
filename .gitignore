@@ -1,10 +1,10 @@
-# Node
 node_modules
-
-# Dapptools
-out/
-
-.env
-
-# Forge
-cache/
+artifacts
+cache
+config.ts
+.hardhat.*
+.data.json
+.setup.json
+typechain
+build
+flatten
